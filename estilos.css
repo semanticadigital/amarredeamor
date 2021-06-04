@@ -11,7 +11,7 @@
  section{
      position:absolute;
      float:center;
-     width:400px;
+     width:96%;
      height:100%;
      color:#FFF;
  }
@@ -22,7 +22,7 @@
 
  
 section,footer{
-margin:2%;}
+margin:1%;}
 
 img {
 height: auto;
@@ -47,9 +47,5 @@ max-width: 100%;
 .button span {
 	margin-right:10px;
 }
-/*Efectos, Hover*/
-.button:hover {
-	box-shadow:0px 0px 0px;
-	padding-top:7px #1C9B4B;
-}
+
 
