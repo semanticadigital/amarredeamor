@@ -9,9 +9,7 @@
      
  }     
  section{
-	display: flex;
-	flex: 100%;
-     	float:center;
+	float:center;
      	width:500px;
      	height:100%;
      	color:#FFF;
