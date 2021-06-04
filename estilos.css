@@ -10,6 +10,7 @@
  }     
  section{
 	display: flex;
+	flex: 100%;
      	float:center;
      	width:500px;
      	height:100%;
@@ -19,6 +20,7 @@
  
 section2{
 	display: flex;
+	flex: 100%;
      	float:center;
      	width:500px;
      	height:100%;
