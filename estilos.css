@@ -11,7 +11,7 @@
  section{
      position:absolute;
      float:left;
-     width:100%;
+     width:500px;
      height:100%;
      color:#FFF;
  }
@@ -22,7 +22,7 @@
 
  
 section,footer{
-margin:1%;}
+margin:2%;}
 
 img {
 height: auto;
