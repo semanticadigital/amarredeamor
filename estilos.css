@@ -9,8 +9,9 @@
      
  }     
  section{
+	position: absolute;
 	float:center;
-     	width:500px;
+     	width:400px;
      	height:100%;
      	color:#FFF;
 	padding: 10px;
