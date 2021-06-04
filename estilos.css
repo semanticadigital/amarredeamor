@@ -10,7 +10,7 @@
  }     
  section{
 	position: absolute;
-	float:center;
+	display: flex;
      	width:96%;
      	color:#FFF;
 	padding: 10px;
