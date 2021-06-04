@@ -11,7 +11,15 @@
  section{
 	position: absolute;
 	float:center;
-     	width:400px;
+     	width:96%;
+     	height:100%;
+     	color:#FFF;
+	padding: 10px;
+}
+ section2{
+	position: absolute;
+	float:center;
+     	width:96%;
      	height:100%;
      	color:#FFF;
 	padding: 10px;
