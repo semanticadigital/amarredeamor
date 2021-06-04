@@ -11,12 +11,21 @@
  section{
      position:absolute;
      float:center;
-     width:96%;
+     width:500px;
      height:100%;
      color:#FFF;
 	padding: 10px;
 }
  
+section2{
+     position:absolute;
+     float:center;
+     width:500px;
+     height:100%;
+     color:#FFF;
+	padding: 10px;
+	background:#333;
+}
  a:link {
   color: yellow;
 }
