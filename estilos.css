@@ -39,6 +39,7 @@ height: auto;
 max-width: 100%;
 }
 .button {
+	position: fixed;
 	background:#25D366;
 	color:#fff;
 	display:inline-block;
